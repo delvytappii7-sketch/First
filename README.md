@@ -39,6 +39,14 @@ Waktu belajar  : 1 jam per hari
 - Catatan : mulai paham <header> dan <footer>
 
 ### Hari ke-2
+- Belajar :CSS dasar
+- Praktik :Bisa ganti warna, font, dan jarak
+- Kendala :masih bingung ketika HTML terpisah CSS
+- Catatan :CSS mengatur tampilan, HTML mengatur struktur
+  NOTED : HTML = Rangka
+          CSS = baju & makeup
+
+### Hari ke-3
 - Belajar :
 - Praktik :
 - Kendala :
