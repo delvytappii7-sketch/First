@@ -44,7 +44,7 @@ Waktu belajar  : 1 jam per hari
 - Kendala :masih bingung ketika HTML terpisah CSS
 - Catatan :CSS mengatur tampilan, HTML mengatur struktur
   NOTED : HTML = Rangka
-          CSS = baju & makeup
+        : CSS = baju & makeup
 
 ### Hari ke-3
 - Belajar :
