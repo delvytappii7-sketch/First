@@ -52,7 +52,7 @@ Waktu belajar  : 1 jam per hari
 - Kendala :-
 - Catatan :Tag HTML membyngkus teks agar tampil berbeda
 
-### Hari ke-3
+### Hari ke-4
 - Belajar :
 - Praktik :
 - Kendala :
