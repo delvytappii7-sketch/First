@@ -47,6 +47,12 @@ Waktu belajar  : 1 jam per hari
         : CSS = baju & makeup
 
 ### Hari ke-3
+- Belajar :Tag HTML ('H1', 'P')
+- Praktik :Mengubag teks jadi judul & paragraf
+- Kendala :-
+- Catatan :Tag HTML membyngkus teks agar tampil berbeda
+
+### Hari ke-3
 - Belajar :
 - Praktik :
 - Kendala :
